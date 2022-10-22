@@ -17,10 +17,18 @@ section {
 }
 
 @font-face {
-  font-family: "AfterShok";
-  src: url("./font/After_Shok.ttf") format("truetype");
+  font-family: "Gravedi";
+  src: url("./font/GravediggerPersonalUse-K7ayW.ttf") format("truetype");
+}
+@font-face {
+  font-family: "street";
+  src: url("./font/KeepSinging-ao1K.ttf") format("truetype");
 }
 
 .navbar-brand {
-  font-family: AfterShok, arial;
+  font-family: Gravedi, arial;
+}
+
+.display-4 {
+  font-family: street;
 }
