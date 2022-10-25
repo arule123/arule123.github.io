@@ -3,10 +3,6 @@
   background-color: #dfdede;
 }
 
-.lead {
-  font-weight: bold;
-}
-
 #galeri {
   background-color: #dfdede;
 }
@@ -35,4 +31,5 @@ section {
 
 .display-4 {
   font-family: street;
+  font-size: 43px;
 }
